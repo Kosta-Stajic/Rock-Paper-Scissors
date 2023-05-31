@@ -1,0 +1,29 @@
+body{
+ 
+    justify-content: center;
+    align-items: center;
+}
+.btnz{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    height: 30mm;
+    width: 30mm;
+    background-color: aquamarine;
+    padding: 14px 28px;
+    margin:20px;
+    font-size: 16px;
+}
+
+button:hover{background: #eee;}
+
+#results {
+    display:flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+    font-size:20px;
+   
+}
