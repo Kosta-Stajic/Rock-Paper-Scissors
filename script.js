@@ -24,7 +24,7 @@ let playerScore = 0
 let computerScore = 0
 
 
-//buttons for playing//
+
 button1.addEventListener("click", () => {
     const computerSelection = getRandomChoice()
     const playerSelection = "rock"
